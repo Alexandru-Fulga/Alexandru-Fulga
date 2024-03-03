@@ -20,7 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandru-fulga&show_icons=true&locale=en&layout=compact" alt="alexandru-fulga" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandru-fulga&show_icons=true&locale=en" alt="alexandru-fulga" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandru-fulga&" alt="alexandru-fulga" /></p>
 
