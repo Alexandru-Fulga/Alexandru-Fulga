@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandru-fulga&label=Profile%20views&color=0e75b6&style=flat" alt="alexandru-fulga" /> </p>
 
-- 🌱 Actualmente estoy trabajando con **Angular, .NET**
+- 🌱 Actualmente estoy trabajando con **Angular, .NET y Flutter**
 
 - 💬 Puedes preguntarme acerca de: **Angular, .NET, Flutter, Typescript, PHP, MySQL...**
 
